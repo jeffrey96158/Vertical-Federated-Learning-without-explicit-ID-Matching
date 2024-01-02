@@ -1,6 +1,10 @@
 # Vertical Federated Learning
 * Senior Project Contest in 2022 Fall.
 
+## Author
+* 黃冠維
+* 曾至楷
+
 ## Overview
 * Vertical_Federated_Learning_with_Drive_Diagnosis.ipynb: Use MNIST dataset to train SPLITNN model.
 * Vertical_Federated_Learning_with_MNIST.ipynb: Try different dataset to train SPLITNN model.
